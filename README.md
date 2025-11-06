@@ -13,7 +13,8 @@
 | 10.30 | RDB, NoSQL | 하윤철 |  |
 | 10.30 | ACID | 정예준 |  |
 | 10.30 | ACID | 한민욱 |  |
-| 11.06 | Index, Scalability, Normalization |  |  |
+| 11.06 | Index, Scalability |  |  |
+| 11.06 | Normalization | 송현우 | [송현우](https://github.com/SSAFY-Seoul-Class-7/STUDY_Database/blob/main/Index%2C%20Scalability%2C%20Normalization/Normalization.pdf) |
 | 11.13 | Join, B-Tree, Lock |  |  |
 | 11.20 | Schema, Connection Pool, Index Scan, SQL Injection |  |  |
 
